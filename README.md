@@ -6,8 +6,8 @@ Tema 5
 
 Pasos: 
 1) Descargar los archivos desde Github
-2) Darle permiso de ejecucion al script: chmod +x instalador.sh
-3) Ejecutar el script de instalacion: ./instalador.sh
+2) Darle permiso de ejecucion al script: ``` chmod +x instalador.sh ```
+3) Ejecutar el script de instalacion: ``` ./instalador.sh ```
 4) Cerrar la sesion y volver a conectarse
-5) Ejecutar el docker-compose.yml: docker-compose up
+5) Ejecutar el docker-compose.yml: ``` docker-compose up ``` o ``` docker-compose up -d ``` para usarlo en segundo plano
 6) Ingresar a la ip publica desde el navegador
